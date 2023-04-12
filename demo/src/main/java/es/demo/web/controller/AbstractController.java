@@ -1,4 +1,4 @@
-package com.example.demo.web.controller;
+package es.demo.web.controller;
 
 import org.springframework.data.domain.Page;
 

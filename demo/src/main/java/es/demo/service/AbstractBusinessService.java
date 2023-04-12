@@ -1,7 +1,7 @@
-package com.example.demo.service;
+package es.demo.service;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.example.demo.service.mapper.AbstractServiceMapper;
+import es.demo.service.mapper.AbstractServiceMapper;
 import java.util.*;
 
 public abstract class AbstractBusinessService <E, ID, DTO,  REPO extends JpaRepository<E,Long> ,

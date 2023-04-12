@@ -1,4 +1,4 @@
-package com.example.demo.service.mapper;
+package es.demo.service.mapper;
 
 import java.util.*;
 import java.util.stream.Collectors;
